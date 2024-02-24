@@ -1,0 +1,23 @@
+Things to do
+1.record-text check
+2.runtime setting ->preference ->enable text and images
+3.image check
+4.tools-scripting check 
+5.web_add_auto_header
+6.parameterization
+7.correlation
+8.runtime settings-iteration 2
+9.recording options-configuration
+10.conrtoller:add vuser
+11.controller:set time
+12.stop vuser:set time
+13.controller:select graphs
+14.add annotation
+1 iteration for load test 
+2 iteration for stress test
+give 4 or 5 data for parameterisation
+run time setting -> log -> extended log ->parameter substitution
+load test 1m 
+stress test 5m
+load-5 user
+stress -1 user
